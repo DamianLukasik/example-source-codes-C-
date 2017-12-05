@@ -1,0 +1,6 @@
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\bin\Debug\Equals_test001.exe.config
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\bin\Debug\Equals_test001.exe
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\bin\Debug\Equals_test001.pdb
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\obj\Debug\Equals_test001.csproj.CoreCompileInputs.cache
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\obj\Debug\Equals_test001.exe
+c:\users\damian\documents\visual studio 2017\Projects\Equals_test001\Equals_test001\obj\Debug\Equals_test001.pdb

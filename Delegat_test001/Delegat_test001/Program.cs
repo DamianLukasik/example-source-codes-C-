@@ -21,6 +21,9 @@ namespace Delegat_test001
             SomeSolveRunningData sv = new SomeSolveRunningData();
             sv.SolveMethod(CallBackMethod,2,6,2);
 
+            SomeHideData sp = new SomeHideData();
+            sp.Show(CallBackMethod);
+
             Console.ReadKey();
         }
 
@@ -32,6 +35,11 @@ namespace Delegat_test001
         static void CallBackMethod(float i)
         {
             Console.WriteLine(i);
+        }
+
+        static void CallBackMethod(string s)
+        {
+            Console.WriteLine(s.Substring(0,2)+" Rrry "+s.Substring(3));
         }
     }
 
@@ -57,6 +65,19 @@ namespace Delegat_test001
         {
             float result = (b * b) - 4 * a * c;
             obj(result);
+        }
+    }
+
+    class SomeHideData
+    {
+        public delegate void Szpieg(string a);
+
+        private string secret = "tajne dane";
+        private string data   = "ukryte dane";
+
+        public void Show(Szpieg obj)
+        {
+            obj(data);
         }
     }
 }

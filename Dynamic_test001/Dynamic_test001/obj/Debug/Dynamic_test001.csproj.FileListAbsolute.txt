@@ -1,0 +1,7 @@
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\bin\Debug\Dynamic_test001.exe.config
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\bin\Debug\Dynamic_test001.exe
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\bin\Debug\Dynamic_test001.pdb
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\obj\Debug\Dynamic_test001.csproj.CoreCompileInputs.cache
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\obj\Debug\Dynamic_test001.exe
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\obj\Debug\Dynamic_test001.pdb
+c:\users\damian\documents\visual studio 2017\Projects\Dynamic_test001\Dynamic_test001\obj\Debug\Dynamic_test001.csprojResolveAssemblyReference.cache

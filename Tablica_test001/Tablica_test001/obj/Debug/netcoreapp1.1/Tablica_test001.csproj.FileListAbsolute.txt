@@ -1,0 +1,10 @@
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\bin\Debug\netcoreapp1.1\Tablica_test001.deps.json
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\bin\Debug\netcoreapp1.1\Tablica_test001.runtimeconfig.json
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\bin\Debug\netcoreapp1.1\Tablica_test001.runtimeconfig.dev.json
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\bin\Debug\netcoreapp1.1\Tablica_test001.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\bin\Debug\netcoreapp1.1\Tablica_test001.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\obj\Debug\netcoreapp1.1\Tablica_test001.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\obj\Debug\netcoreapp1.1\Tablica_test001.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\obj\Debug\netcoreapp1.1\Tablica_test001.AssemblyInfo.cs
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\obj\Debug\netcoreapp1.1\Tablica_test001.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\Tablica_test001\Tablica_test001\obj\Debug\netcoreapp1.1\Tablica_test001.pdb

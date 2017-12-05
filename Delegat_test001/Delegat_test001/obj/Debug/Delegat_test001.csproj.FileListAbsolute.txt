@@ -5,3 +5,10 @@ c:\users\damian\documents\visual studio 2017\Projects\Delegat_test001\Delegat_te
 c:\users\damian\documents\visual studio 2017\Projects\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.csproj.CoreCompileInputs.cache
 c:\users\damian\documents\visual studio 2017\Projects\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.exe
 c:\users\damian\documents\visual studio 2017\Projects\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\bin\Debug\Delegat_test001.exe.config
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\bin\Debug\Delegat_test001.exe
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\bin\Debug\Delegat_test001.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.exe
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\C# Tutorial\Delegat_test001\Delegat_test001\obj\Debug\Delegat_test001.pdb

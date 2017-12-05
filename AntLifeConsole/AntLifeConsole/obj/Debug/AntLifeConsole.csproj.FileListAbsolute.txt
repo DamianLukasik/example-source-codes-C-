@@ -1,0 +1,9 @@
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\bin\Debug\AntLifeConsole.exe.config
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\bin\Debug\AntLifeConsole.exe
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\bin\Debug\AntLifeConsole.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\bin\Debug\AntLifeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\bin\Debug\AntLifeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\obj\Debug\AntLifeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\obj\Debug\AntLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\obj\Debug\AntLifeConsole.exe
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeConsole\obj\Debug\AntLifeConsole.pdb

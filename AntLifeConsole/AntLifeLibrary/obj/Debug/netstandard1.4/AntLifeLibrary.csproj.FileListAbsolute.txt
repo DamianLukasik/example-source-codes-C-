@@ -1,0 +1,8 @@
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\bin\Debug\netstandard1.4\AntLifeLibrary.deps.json
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\bin\Debug\netstandard1.4\AntLifeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\bin\Debug\netstandard1.4\AntLifeLibrary.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\obj\Debug\netstandard1.4\AntLifeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\obj\Debug\netstandard1.4\AntLifeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\obj\Debug\netstandard1.4\AntLifeLibrary.AssemblyInfo.cs
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\obj\Debug\netstandard1.4\AntLifeLibrary.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\AntLifeConsole\AntLifeLibrary\obj\Debug\netstandard1.4\AntLifeLibrary.pdb
